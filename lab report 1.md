@@ -1,4 +1,4 @@
-**Lab Report 1**
+***Lab Report 1***
 
 Here are examples of the commands "cd", "ls", and "cat" with no arguments: 
 
