@@ -1,7 +1,14 @@
 Lab Report 1
 Here are examples of the commands "cd", "ls", and "cat" with no arguments: 
-![Image](ls no argument.png)
+
 ![Image](cd no argument.png)
+- working directory:/home/lecture1
+- no argument meant that no ouput
+- no error
+
+![Image](ls no argument.png)
+
 ![Image](cat no argument.png)
 
-Here are examples of the commands "cd", "ls", and "cat" with a path to a directory as an argument
+Here are examples of the commands "cd", "ls", and "cat" with a path to a directory as an argument:
+
