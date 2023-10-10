@@ -11,12 +11,10 @@ Here are examples of the commands "cd", "ls", and "cat" with no arguments:
 - displays the contents within lecture1 including java files and .class files
 - no error
 
-
 ![Image](cat no argument.png)
 - working directory: N/A
 - no output because no argument, but does erase the directory 
 - no error 
-
 
 Here are examples of the commands "cd", "ls", and "cat" with a path to a directory as an argument:
 
@@ -34,7 +32,6 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a directo
 - working directory: /home
 - confirms that lecture1 is a directory 
 - no error
-
 
 
 Here are examples of the commans "cd", "ls", and "cat" with a path to a file as an argument:
