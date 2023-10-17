@@ -19,12 +19,12 @@ Here are examples of the commands "cd", "ls", and "cat" with no arguments:
 
 Here are examples of the commands "cd", "ls", and "cat" with a path to a directory as an argument:
 
-![Image](cd_directory.png)
+![Image](cd_directory.png) EDIT 
 - working directory: /home
 - no output and lecture1 argument shifted the directory to /home/lecture1
 - no error
 
-![Image](ls_directory.png) edit
+![Image](ls_directory1.png)
 - working directory: /home/lecture1
 - displays the conents within lecture1 which are messages, Hello.class, Hello.java, and README
 - no error
