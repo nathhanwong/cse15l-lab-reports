@@ -51,5 +51,5 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a file as
 
 ![Image](cat_file1.png)
 - working directory: /home/lecture1
-- displayed the contents within messages/en-us.txt which was Hello World!
+- displayed the content within messages/en-us.txt which was Hello World!
 - no error
