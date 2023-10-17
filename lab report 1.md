@@ -4,7 +4,7 @@ Here are examples of the commands "cd", "ls", and "cat" with no arguments:
 
 ![Image](cd_no_argument.png)
 - working directory:/home/lecture1
-- no argument meant that no ouput
+- took me back to home directory 
 - no error
 
 ![Image](ls_no_argument.png)
@@ -24,10 +24,10 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a directo
 - no output and lecture1 argument shifted the directory to /home/lecture1
 - no error
 
-![Image](ls_directory.png)
+![Image](ls_directory.png) edit
 - working directory: /home/lecture1
-- says no such file or directory which seems faulty as it does exist
-- error, supposed to read the contents of lecture 1
+- displays the conents within lecture1 which are messages, Hello.class, Hello.java, and README
+- no error
 
 ![Image](cat_directory.png)
 - working directory: /home
@@ -35,7 +35,7 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a directo
 - no error
 
 
-Here are examples of the commans "cd", "ls", and "cat" with a path to a file as an argument:
+Here are examples of the commands "cd", "ls", and "cat" with a path to a file as an argument:
 
 ![Image](cd_file.png)
 - working directory: /home/lecture1
