@@ -47,3 +47,9 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a file as
 - working directory: /home/lecture1
 - outputted messages/en-us.txt, displayed the file of messages/en-us.txt
 - no error
+
+
+![Image](cat_file1.png)
+- working directory: /home/lecture1
+- displayed the content within messages/en-us.txt which was Hello World!
+- no error
