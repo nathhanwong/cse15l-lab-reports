@@ -50,6 +50,6 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a file as
 
 
 ![Image](cat_file.png)
-- working directory: /home
+- working directory: /home/lecture1
 - outputted no such file or directory, seems faulty as well as I thought it would display the contents of the file 
 - error, did not locate the file or directory 
