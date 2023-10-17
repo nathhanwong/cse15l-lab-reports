@@ -49,7 +49,7 @@ Here are examples of the commands "cd", "ls", and "cat" with a path to a file as
 - no error
 
 
-![Image](cat_file.png)
+![Image](cat_file1.png)
 - working directory: /home/lecture1
-- outputted no such file or directory, seems faulty as well as I thought it would display the contents of the file 
-- error, did not locate the file or directory 
+- displayed the contents within messages/en-us.txt which was Hello World!
+- no error
