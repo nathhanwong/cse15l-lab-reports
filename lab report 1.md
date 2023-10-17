@@ -14,12 +14,12 @@ Here are examples of the commands "cd", "ls", and "cat" with no arguments:
 
 ![Image](cat_no_argument.png)
 - working directory: N/A
-- no output because no argument, but does erase the directory 
+- since file not specified, reads from user standard input
 - no error 
 
 Here are examples of the commands "cd", "ls", and "cat" with a path to a directory as an argument:
 
-![Image](cd_directory.png) EDIT 
+![Image](cd_directory1.png)
 - working directory: /home
 - no output and lecture1 argument shifted the directory to /home/lecture1
 - no error
