@@ -31,6 +31,7 @@ addmessages screenshots
 
 
 *Part 3*
+
 From lab these past few weeks I have learned quite alot, especially since everything that's been taught is brand new to me.
 Although it has been relatively difficult, some new skills I have acquired are ...
 
