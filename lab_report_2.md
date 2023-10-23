@@ -23,11 +23,19 @@ addmessages screenshots
 
 *Part 2*
 
-![Image]()
 
-![Image]()
+path to private key
+![Image](LR2.private.png)
 
-![Image]()
+
+
+path to public key
+![Image](LR2.public.png)
+
+
+
+terminal with no password
+![Image](LR2.terminals.png)
 
 
 *Part 3*
