@@ -35,7 +35,7 @@ path to public key
 
 
 terminal with no password
-![Image](LR2.terminals.png)
+![Image](LR2.terminals1.png)
 
 
 *Part 3*
