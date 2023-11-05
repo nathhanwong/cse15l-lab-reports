@@ -6,17 +6,38 @@ LAB REPORT 3
 Failure
 ![Image](labreport3_failure.png)
 
+
+
+
 No Failure
 ![Image](labreport3_nofailure.png)
 
+
+
+
+
+
 Symptom
-![Image]()
+![Image](LR3_JUnit.png)
+![Image](LR3_testFailure.png)
+![Image](LR3_testSuccess.png)
+
+
+
+
 
 Bug (before)
 ![Image](labreport3_before.png)
 
+
+
+
+
 Bug (after)
 ![Image](labreport3_after.png)
+
+
+
 
 The fix addresses the issue because it ensures that the 'getFiles' method
 works correctly not only for the the directory inputs but also the file 
