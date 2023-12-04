@@ -21,7 +21,7 @@ Java program. Let me know if there are any other questions!
 
 Step 3: Description of the bug
 
-insert bug1.png
+![Image](bug1.png)
 
 After executing the ArgumentPassing.java program, I was prompted
 to enter 2 arguments which would be initiated in the bash script.
@@ -31,6 +31,7 @@ string as expected. But the bug surfaced when the length was
 displayed incorrectly as the script producted an unexpected output
 showing a length that didn't match the actual length.
 
+![Image](success.png)
 
 Step 4: 
 File and Directory Structure Needed -
